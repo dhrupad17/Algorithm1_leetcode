@@ -10,7 +10,9 @@
 
 | DAYS  | LEETCODE PROBLEM NO |  NAME                         |  DIFFICULTY  |   SOLUTIONS                                                    |
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
-
+| DAY1 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY1P1.md) |
+|  | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY1P2.md) |
+|  | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY1P3.md) |
 
 
 ## 🛠 Skills
