@@ -13,7 +13,8 @@
 | DAY1 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY1P1.md) |
 |  | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY1P2.md) |
 |  | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY1P3.md) |
-
+| DAY2 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY2P1.md) |
+|  | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY2P2.md) |
 
 ## 🛠 Skills
 `Binary-search`,`Two-Pointers`,`Sliding-Window`,`BFS`,`DFS`,`Recursion`,`Backtracking`,`Dynamic-Programming`,`Bit Manipulation`
