@@ -21,6 +21,12 @@
 |  | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY4P2.md) |
 | DAY5 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY5P1.md) |
 |  | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY5P2.md) |
+| DAY6 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY6P1.md) |
+|  | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY6P2.md) |
+
+
+
+
 ## 🛠 Skills
 `Binary-search`,`Two-Pointers`,`Sliding-Window`,`BFS`,`DFS`,`Recursion`,`Backtracking`,`Dynamic-Programming`,`Bit Manipulation`
 
