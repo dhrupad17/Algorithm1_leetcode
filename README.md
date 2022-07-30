@@ -23,6 +23,8 @@
 |  | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY5P2.md) |
 | DAY6 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY6P1.md) |
 |  | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY6P2.md) |
+| DAY7 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY7P1.md) |
+|  | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY7P2.md) |
 
 
 
