@@ -25,7 +25,8 @@
 |  | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY6P2.md) |
 | DAY7 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY7P1.md) |
 |  | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY7P2.md) |
-
+| DAY8 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY8P1.md) |
+|  | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY8P2.md) |
 
 
 
