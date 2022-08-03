@@ -31,6 +31,9 @@
 |  | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY9P2.md) |
 | DAY10 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY10P1.md) |
 |  | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY10P2.md) |
+| DAY11 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY11P1.md) |
+|  | 46 | [Permutations](https://leetcode.com/problems/permutations/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY11P2.md) |
+|  | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY11P3.md) |
 
 ## 🛠 Skills
 `Binary-search`,`Two-Pointers`,`Sliding-Window`,`BFS`,`DFS`,`Recursion`,`Backtracking`,`Dynamic-Programming`,`Bit Manipulation`
