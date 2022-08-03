@@ -27,8 +27,8 @@
 |  | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY7P2.md) |
 | DAY8 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY8P1.md) |
 |  | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY8P2.md) |
-
-
+| DAY9 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY9P1.md) |
+|  | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY9P2.md) |
 
 ## 🛠 Skills
 `Binary-search`,`Two-Pointers`,`Sliding-Window`,`BFS`,`DFS`,`Recursion`,`Backtracking`,`Dynamic-Programming`,`Bit Manipulation`
