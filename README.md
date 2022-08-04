@@ -34,6 +34,9 @@
 | DAY11 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY11P1.md) |
 |  | 46 | [Permutations](https://leetcode.com/problems/permutations/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY11P2.md) |
 |  | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY11P3.md) |
+| DAY12 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY12P1.md) |
+|  | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY12P2.md) |
+|  | 120 | [Triangle](https://leetcode.com/problems/triangle/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY12P3.md) |
 
 ## 🛠 Skills
 `Binary-search`,`Two-Pointers`,`Sliding-Window`,`BFS`,`DFS`,`Recursion`,`Backtracking`,`Dynamic-Programming`,`Bit Manipulation`
