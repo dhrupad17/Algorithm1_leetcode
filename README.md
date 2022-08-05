@@ -37,6 +37,8 @@
 | DAY12 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY12P1.md) |
 |  | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY12P2.md) |
 |  | 120 | [Triangle](https://leetcode.com/problems/triangle/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY12P3.md) |
+| DAY13 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY13P1.md) |
+|  | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY13P2.md) |
 
 ## 🛠 Skills
 `Binary-search`,`Two-Pointers`,`Sliding-Window`,`BFS`,`DFS`,`Recursion`,`Backtracking`,`Dynamic-Programming`,`Bit Manipulation`
