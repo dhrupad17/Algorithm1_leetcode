@@ -39,6 +39,8 @@
 |  | 120 | [Triangle](https://leetcode.com/problems/triangle/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY12P3.md) |
 | DAY13 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY13P1.md) |
 |  | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY13P2.md) |
+| DAY14 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY14P1.md) |
+|  | 136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm1_leetcode/blob/main/DAY14P2.md) |
 
 ## 🛠 Skills
 `Binary-search`,`Two-Pointers`,`Sliding-Window`,`BFS`,`DFS`,`Recursion`,`Backtracking`,`Dynamic-Programming`,`Bit Manipulation`
